@@ -2,6 +2,8 @@
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/shinyay/nuxt3-starter)
+
 ## Setup
 
 Make sure to install the dependencies:

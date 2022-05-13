@@ -1,8 +1,5 @@
 tasks:
-  - init: |
-      npm install
-      gp sync-done installation
-    command: npm run server
-  - init: gp sync-await installation
-    command: npm run client
+  - name: Dev Server
+    init: npm install
+    command: npm run dev
 
